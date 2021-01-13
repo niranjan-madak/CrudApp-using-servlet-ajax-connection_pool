@@ -1,0 +1,7 @@
+<Context>
+
+<Resource name="mysqlpool" auth="Container" type="javax.sql.DataSource" maxActive="25" maxIdle="5"
+maxWait="10000" username="root" password="@Madak1996" driverClassName="com.mysql.cj.jdbc.Driver"
+url="jdbc:mysql://127.0.0.1:3306/employee?useSSL=false"/>
+
+</Context>
